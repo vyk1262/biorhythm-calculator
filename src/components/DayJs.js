@@ -1,0 +1,18 @@
+// // npm install dayjs
+// // node (in terminal - a interactive environment)
+// const dayjs = require('dayjs')
+// const now = dayjs()
+// now
+// now.toString()
+// now.toISOString()
+// now.format'‘D MM YYYY')
+// dayjs('1999-12-31')
+// now.toISOString()
+// now.startOf('day').toISOString()
+// const today = now.startOf('day')
+// today.add(1, 'day').toISOString()
+// today.add(2, 'days').toISOString()
+// today.add(-1, 'days').toISOString()
+// const aMonthAgo = ('2020-1-18')
+// aMonthAgo.toISOString()
+// today.diff(aMonthAgo, 'days')
